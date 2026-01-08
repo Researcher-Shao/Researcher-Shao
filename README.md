@@ -31,3 +31,5 @@
 
 ###  学术交流 (Research Collaboration)
 我始终欢迎针对 **MCH (母婴健康) + LLM Safety & Ethics** 领域的学术探讨、数据集共建或算法改进建议。
+
+###  与我联系 shaoshengyi@xiaoyouzi.com
