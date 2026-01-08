@@ -1,3 +1,6 @@
+![AI Health](https://img.shields.io/badge/Focus-AI%20Health-green) 
+![Graph-RAG](https://img.shields.io/badge/Architecture-Graph--RAG-blue) 
+![MCH Safety](https://img.shields.io/badge/Benchmarking-MCH%20Safety-red)
 # Hi there, I'm Sheng Yi Shao | AI Health Researcher 👋
 
 ### 🔬 研究使命 (Research Mission)
