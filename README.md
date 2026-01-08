@@ -1,9 +1,9 @@
 ![AI Health](https://img.shields.io/badge/Focus-AI%20Health-green) 
 ![Graph-RAG](https://img.shields.io/badge/Architecture-Graph--RAG-blue) 
 ![MCH Safety](https://img.shields.io/badge/Benchmarking-MCH%20Safety-red)
-# Hi there, I'm Sheng Yi Shao | AI Health Researcher 👋
+# Hi there, I'm Sheng Yi Shao | AI Health Researcher 
 
-### 🔬 研究使命 (Research Mission)
+### 研究使命 (Research Mission)
 作为母婴健康领域的 **Chief Researcher**，我坚持从**第一性原理 (First Principles)** 出发，构建具备临床严谨性、医疗伦理性与人文关怀的 AI 体系。我致力于通过技术研究定义行业标准，确保 AI 在母婴健康这一高风险、高敏感领域的安全应用。
 
 ### 核心研究版图 (Core Research Roadmap)
@@ -24,10 +24,10 @@
   - **前沿探索：** 研究具备长期记忆与主动关怀能力的 **MCH Agent**，探索多 Agent 协作在复杂育儿场景、婴儿粪便分析及个性化健康管理中的应用。
   - **仿真模拟：** 利用 **CERS (临床-情感双维度评分系统)** 与“真实患者模拟系统”驱动 Agent 进化，实现从“技术可用”到“医学可靠”的跃迁。
 
-### 🚀 职业背景 (Professional Background)
+###  职业背景 (Professional Background)
 - **美柚 (Meetyou) 互医负责人**
 - **AI健康/AI诊室**
 - **母婴researcher**
 
-### 📩 学术交流 (Research Collaboration)
+###  学术交流 (Research Collaboration)
 我始终欢迎针对 **MCH (母婴健康) + LLM Safety & Ethics** 领域的学术探讨、数据集共建或算法改进建议。
